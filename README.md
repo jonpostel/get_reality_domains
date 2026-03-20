@@ -1,0 +1,2 @@
+# get_reality_domains
+获取可用的Reality域名
